@@ -1,9 +1,10 @@
 ---
-starthook DLRP_WarehouseHeist
+starthook C_WarehouseHeist
 
 
 212.162.151.95 - mah
 149.56.243.180 - mah
+69.195.131.125 - beerasaurus rex
 
 
 endhook DLRP_WarehouseHeist
