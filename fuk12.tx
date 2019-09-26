@@ -236,13 +236,13 @@ endhook DLRP_PacificHeist
 
 ---
 
-starthook MF_SkeletalSystem
+starthook DLRP_SkeletalSystem
 
 192.0.129.76 - godhatasame
 212.162.151.95 - godhatasame2
 149.56.243.180 - godhatasame3
 5.196.91.180 - Moustache
 
-endhook MF_SkeletalSystem
+endhook DLRP_SkeletalSystem
 
 ---
