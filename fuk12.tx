@@ -37,16 +37,16 @@ endhook mf_furnicatalogue
 
 ---
 
-starthook MF_PropertyRaid
+starthook DLRP_HomeInvasion
 
 212.162.151.95 - mah
 149.56.243.180 - mah
 
-endhook MF_PropertyRaid
+endhook DLRP_HomeInvasion
 
 ---
 
-starthook MF_PawnShop
+starthook DLRP_PawnShop
 
 
 192.0.129.76 - godhatasame
@@ -54,7 +54,7 @@ starthook MF_PawnShop
 149.56.243.180 - godhatasame3
 5.196.91.180 - Moustache
 	
-endhook MF_PawnShop
+endhook DLRP_PawnShop
 
 ---
 
@@ -135,11 +135,11 @@ endhook DLRP_PurgeEvent
 
 ---
 
-starthook C_ObjectSpawner
+starthook DLRP_ObjectSpawner
 
 212.162.151.95 - godhatasame2
 
-endhook C_ObjectSpawner
+endhook DLRP_ObjectSpawner
 
 ---
 
@@ -153,13 +153,13 @@ endhook MF_Trackables
 
 ---
 
-starthook MF_Boxing
+starthook DLRP_Boxing
 
 192.0.129.76 - godhatasame
 212.162.151.95 - godhatasame2
 149.56.243.180 - godhatasame3
 
-endhook MF_Boxing
+endhook DLRP_Boxing
 
 ---
 
@@ -196,13 +196,13 @@ endhook DLRP_LockPick
 
 ---
 
-starthook MF_Fleeca
+starthook DLRP_FleecaHeist
 
 192.0.129.76 - godhatasame
 212.162.151.95 - godhatasame2
 149.56.243.180 - godhatasame3
 
-endhook MF_Fleeca
+endhook DLRP_FleecaHeist
 
 ---
 
