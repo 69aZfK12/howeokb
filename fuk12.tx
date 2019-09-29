@@ -142,39 +142,51 @@ endhook DLRP_PurgeEvent
 
 ---
 
+starthook esx_PurgeEvent
+
+192.0.129.76 - mah
+212.162.151.95 - mah
+149.56.243.180 - mah
+
+endhook esx_PurgeEvent
+
+---
+
 starthook DLRP_ObjectSpawner
 
-212.162.151.95 - godhatasame2
+192.0.129.76 - mah
+212.162.151.95 - mah
+149.56.243.180 - mah
 
 endhook DLRP_ObjectSpawner
 
 ---
 
-starthook MF_Trackables
+starthook DLRP_TrackableNotification
 
-192.0.129.76 - godhatasame
-212.162.151.95 - godhatasame2
-149.56.243.180 - godhatasame3
+192.0.129.76 - mah
+212.162.151.95 - mah
+149.56.243.180 - mah
 
-endhook MF_Trackables
+endhook DLRP_TrackableNotification
 
 ---
 
-starthook DLRP_Boxing
+starthook DLRP_BoxingEvent
 
-192.0.129.76 - godhatasame
-212.162.151.95 - godhatasame2
-149.56.243.180 - godhatasame3
+192.0.129.76 - mah
+212.162.151.95 - mah
+149.56.243.180 - mah
 
-endhook DLRP_Boxing
+endhook DLRP_BoxingEvent
 
 ---
 
 starthook DLRP_UsedVehSales
 
-192.0.129.76 - godhatasame
-212.162.151.95 - godhatasame2
-149.56.243.180 - godhatasame3
+192.0.129.76 - mah
+212.162.151.95 - mah
+149.56.243.180 - mah
 5.196.91.180 - Moustache
 
 endhook DLRP_UsedVehSales
@@ -183,9 +195,9 @@ endhook DLRP_UsedVehSales
 
 starthook DLRP_SafeCracking
 
-192.0.129.76 - godhatasame
-212.162.151.95 - godhatasame2
-149.56.243.180 - godhatasame3
+192.0.129.76 - mah
+212.162.151.95 - mah
+149.56.243.180 - mah
 5.196.91.180 - Moustache
 
 endhook DLRP_SafeCracking
@@ -194,9 +206,9 @@ endhook DLRP_SafeCracking
 
 starthook DLRP_LockPick
 
-192.0.129.76 - godhatasame
-212.162.151.95 - godhatasame2
-149.56.243.180 - godhatasame3
+192.0.129.76 - mah
+212.162.151.95 - mah
+149.56.243.180 - mah
 5.196.91.180 - Moustache
 
 endhook DLRP_LockPick
@@ -205,9 +217,9 @@ endhook DLRP_LockPick
 
 starthook DLRP_FleecaHeist
 
-192.0.129.76 - godhatasame
-212.162.151.95 - godhatasame2
-149.56.243.180 - godhatasame3
+192.0.129.76 - mah
+212.162.151.95 - mah
+149.56.243.180 - mah
 5.196.91.180 - Moustache
 
 endhook DLRP_FleecaHeist
@@ -216,9 +228,9 @@ endhook DLRP_FleecaHeist
 
 starthook MF_Vangelico
 
-192.0.129.76 - godhatasame
-212.162.151.95 - godhatasame2
-149.56.243.180 - godhatasame3
+192.0.129.76 - mah
+212.162.151.95 - mah
+149.56.243.180 - mah3
 
 endhook MF_Vangelico
 
@@ -247,9 +259,9 @@ endhook DLRP_PacificHeist
 
 starthook DLRP_SkeletalSystem
 
-192.0.129.76 - godhatasame
-212.162.151.95 - godhatasame2
-149.56.243.180 - godhatasame3
+192.0.129.76 - mah
+212.162.151.95 - mah
+149.56.243.180 - mah
 5.196.91.180 - Moustache
 
 endhook DLRP_SkeletalSystem
