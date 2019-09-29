@@ -123,6 +123,9 @@ starthook DLRP_PersonalSafes
 212.162.151.95 - mah
 149.56.243.180 - mah
 158.69.177.68 - xKarmageddon
+192.99.45.131 - xKarmtest
+158.69.177.68:30130 -dev server
+158.69.177.68:30126 - main xKarm
 
 endhook DLRP_PersonalSafes
 
