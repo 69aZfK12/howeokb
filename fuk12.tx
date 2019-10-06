@@ -236,13 +236,13 @@ endhook MF_Vangelico
 
 ---
 
-starthook MF_DrugSales
+starthook DLRP_NPCDrugSales
 
 192.0.129.76 - mah
 212.162.151.95 - mah
 149.56.243.180 - mah
 
-endhook MF_DrugSales
+endhook DLRP_NPCDrugSales
 
 ---
 
