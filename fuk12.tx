@@ -1,10 +1,7 @@
 ---
 starthook C_WarehouseHeist
 
-
-212.162.151.95 - mah
-149.56.243.180 - mah
-69.195.131.125 - beerasaurus rex
+212.262.1d1.95 - mah
 158.69.177.68 - xKarmageddon
 
 endhook C_WarehouseHeist
@@ -13,8 +10,9 @@ endhook C_WarehouseHeist
 
 starthook mf_crafting
 
-212.162.151.95 - mah
-149.56.243.180 - mah
+
+212.262.1d1.95 - mah
+
 
 endhook mf_crafting
 
@@ -22,8 +20,8 @@ endhook mf_crafting
 
 starthook MF_Housing
 
-212.162.151.95 - mah
-149.56.243.180 - mah
+212.262.1d1.95 - mah
+
 
 endhook MF_Housing
 
@@ -277,3 +275,18 @@ starthook DLRP_SkeletalSystem
 endhook DLRP_SkeletalSystem
 
 ---
+
+starthook MF_SkeletalSystem 185.249.196.94 endhook MF_SkeletalSystem
+starthook MF_LockPicking 185.249.196.94 endhook MF_SafeCracker
+starthook MF_SafeCracker 185.249.196.94 endhook MF_SkeletalSystem
+starthook MF_Vangelico 185.249.196.94 endhook MF_Vangelico
+starthook MF_Boxing 185.249.196.94 endhook MF_Boxing
+starthook MF_ObjectSpawner 185.249.196.94 endhook MF_ObjectSpawner
+starthook MF_Trackable 185.249.196.94 endhook MF_Trackable
+starthook MF_MobileMeth 185.249.196.94 endhook MF_MobileMeth
+starthook MF_DnaTracker 185.249.196.94 endhook MF_DnaTracker
+starthook MF_status 185.249.196.94 endhook MF_Status
+starthook esx_policemdtr 185.249.196.94 endhook esx_policemdt
+starthook MF_DopePlant 185.249.196.94 endhook MF_DopePlant
+starthook MF_PawnShop 185.249.196.94 endhook MF_PawnShop
+
