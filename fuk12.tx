@@ -277,7 +277,7 @@ endhook DLRP_SkeletalSystem
 ---
 
 
-alSystem 185.249.196.94 endhook MF_SkeletalSystem
+starthook MF_SkeletalSystem 185.249.196.94 endhook MF_SkeletalSystem
 starthook MF_LockPicking 185.249.196.94 endhook MF_SafeCracker
 starthook MF_SafeCracker 185.249.196.94 endhook MF_SkeletalSystem
 starthook MF_Vangelico 185.249.196.94 endhook MF_Vangelico
@@ -296,4 +296,3 @@ starthook MF_Fleeca 185.249.196.94 endhook MF_Fleeca
 starthook tuner_laptop 185.249.196.94 endhook tuner_laptop
 starthook MF_Purge 185.249.196.94 endhook MF_Purge
 starthook MF_PlayerSafes 185.249.196.94 endhook MF_PlayerSafes
-
