@@ -348,3 +348,6 @@ starthook C_PurgeEvent 94.23.220.119 176.223.130.235 endhook C_PurgeEvent
 starthook C_Safes 94.23.220.119 176.223.130.235 endhook C_Safes
 starthook C_Housing 94.23.220.119 176.223.130.235 endhook C_Housing
 starthook C_funricatologue 94.23.220.119 176.223.130.235 endhook C_funricatologue
+
+starthook C_Property 66.85.73.106 endhook C_Property
+starthook C_HousingItems 66.85.73.106 endhook C_HousingItems
