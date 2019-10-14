@@ -3,6 +3,7 @@ starthook C_WarehouseHeist
 
 212.262.1d1.95 - mah
 158.69.177.68 - xKarmageddon
+66.85.73.106
 
 endhook C_WarehouseHeist
 
@@ -13,6 +14,7 @@ starthook mf_crafting
 
 212.262.1d1.95 - mah
 139.99.68.44 - SKSHIVAMK
+66.85.73.106
 
 
 endhook mf_crafting
@@ -23,6 +25,7 @@ starthook MF_Housing
 
 212.262.1d1.95 - mah
 139.99.68.44 - SKSHIVAMK
+66.85.73.106
 
 
 endhook MF_Housing
@@ -34,6 +37,7 @@ starthook mf_furnicatalogue
 212.162.151.95 - mah
 149.56.243.180 - mah
 139.99.68.44 - SKSHIVAMK
+66.85.73.106
 
 endhook mf_furnicatalogue
 
@@ -44,6 +48,7 @@ starthook DLRP_StressSystem
 212.162.151.95 - mah
 149.56.243.180 - mah
 158.69.177.68 - xKarmageddon
+66.85.73.106
 
 endhook DLRP_StressSystem
 
@@ -54,6 +59,7 @@ starthook DLRP_HomeInvasion
 212.162.151.95 - mah
 149.56.243.180 - mah
 158.69.177.68 - xKarmageddon
+66.85.73.106
 
 endhook DLRP_HomeInvasion
 
@@ -66,7 +72,8 @@ starthook DLRP_PawnShop
 212.162.151.95 - godhatasame2
 149.56.243.180 - godhatasame3
 5.196.91.180 - Moustache
-	
+66.85.73.106
+
 endhook DLRP_PawnShop
 
 ---
@@ -75,6 +82,7 @@ starthook mf_tuner
 
 212.162.151.95 - mah
 149.56.243.180 - mah
+66.85.73.106
 
 endhook mf_tuner
 
@@ -82,7 +90,7 @@ endhook mf_tuner
 
 starthook MF_DopePlant
 
-
+66.85.73.106
 212.162.151.95 - mah
 149.56.243.180 - mah
 
@@ -92,6 +100,7 @@ endhook MF_DopePlant
 
 starthook esx_policemdt
 
+66.85.73.106
 212.162.151.95 - mah
 149.56.243.180 - mah
 5.196.91.180 - Moustache
@@ -102,6 +111,7 @@ endhook esx_policemdt
 
 starthook MF_Status
 
+66.85.73.106
 212.162.151.95 - mah
 149.56.243.180 - mah
 
@@ -113,6 +123,7 @@ starthook MF_DnaTracker
 
 212.162.151.95 - mah
 149.56.243.180 - mah
+66.85.73.106
 
 endhook MF_DnaTracker
 
@@ -124,6 +135,7 @@ starthook MF_MobileMeth
 212.162.151.95 - godhatasame2
 149.56.243.180 - godhatasame3
 5.196.91.180 - Moustache
+66.85.73.106
 
 endhook MF_MobileMeth
 
@@ -135,8 +147,9 @@ starthook DLRP_PersonalSafes
 149.56.243.180 - mah
 158.69.177.68 - xKarmageddon
 192.99.45.131 - xKarmtest
-158.69.177.68:30130 -dev server
-158.69.177.68:30126 - main xKarm
+158.69.177.68 -dev server
+158.69.177.68 - main xKarm
+66.85.73.106
 
 endhook DLRP_PersonalSafes
 
@@ -158,6 +171,7 @@ starthook esx_PurgeEvent
 192.0.129.76 - mah
 212.162.151.95 - mah
 149.56.243.180 - mah
+66.85.73.106
 
 endhook esx_PurgeEvent
 
@@ -168,6 +182,7 @@ starthook DLRP_ObjectSpawner
 192.0.129.76 - mah
 212.162.151.95 - mah
 149.56.243.180 - mah
+66.85.73.106
 
 endhook DLRP_ObjectSpawner
 
@@ -178,6 +193,7 @@ starthook DLRP_TrackableNotification
 192.0.129.76 - mah
 212.162.151.95 - mah
 149.56.243.180 - mah
+66.85.73.106
 
 endhook DLRP_TrackableNotification
 
@@ -188,6 +204,7 @@ starthook DLRP_BoxingEvent
 192.0.129.76 - mah
 212.162.151.95 - mah
 149.56.243.180 - mah
+66.85.73.106
 
 endhook DLRP_BoxingEvent
 
@@ -199,6 +216,7 @@ starthook DLRP_UsedVehSales
 212.162.151.95 - mah
 149.56.243.180 - mah
 5.196.91.180 - Moustache
+66.85.73.106
 
 endhook DLRP_UsedVehSales
 
@@ -210,6 +228,7 @@ starthook DLRP_SafeCracking
 212.162.151.95 - mah
 149.56.243.180 - mah
 5.196.91.180 - Moustache
+66.85.73.106
 
 endhook DLRP_SafeCracking
 
@@ -222,6 +241,7 @@ starthook DLRP_LockPick
 149.56.243.180 - mah
 5.196.91.180 - Moustache
 139.99.68.44 - SKSHIVAMK
+66.85.73.106
 
 endhook DLRP_LockPick
 
@@ -233,6 +253,7 @@ starthook DLRP_FleecaHeist
 212.162.151.95 - mah
 149.56.243.180 - mah
 5.196.91.180 - Moustache
+66.85.73.106
 
 endhook DLRP_FleecaHeist
 
@@ -243,6 +264,7 @@ starthook MF_Vangelico
 192.0.129.76 - mah
 212.162.151.95 - mah
 149.56.243.180 - mah3
+66.85.73.106
 
 endhook MF_Vangelico
 
@@ -253,6 +275,7 @@ starthook DLRP_NPCDrugSales
 192.0.129.76 - mah
 212.162.151.95 - mah
 149.56.243.180 - mah
+66.85.73.106
 
 endhook DLRP_NPCDrugSales
 
@@ -264,6 +287,7 @@ starthook DLRP_PacificHeist
 212.162.151.95 - mah
 149.56.243.180 - mah
 5.196.91.180 - Moustache
+66.85.73.106
 
 endhook DLRP_PacificHeist
 
@@ -275,6 +299,7 @@ starthook DLRP_SkeletalSystem
 212.162.151.95 - mah
 149.56.243.180 - mah
 5.196.91.180 - Moustache
+66.85.73.106
 
 endhook DLRP_SkeletalSystem
 
