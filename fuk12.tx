@@ -12,6 +12,7 @@ starthook mf_crafting
 
 
 212.262.1d1.95 - mah
+139.99.68.44 - SKSHIVAMK
 
 
 endhook mf_crafting
@@ -21,6 +22,7 @@ endhook mf_crafting
 starthook MF_Housing
 
 212.262.1d1.95 - mah
+139.99.68.44 - SKSHIVAMK
 
 
 endhook MF_Housing
@@ -31,6 +33,7 @@ starthook mf_furnicatalogue
 
 212.162.151.95 - mah
 149.56.243.180 - mah
+139.99.68.44 - SKSHIVAMK
 
 endhook mf_furnicatalogue
 
@@ -277,8 +280,9 @@ endhook DLRP_SkeletalSystem
 
 ---
 
+starthook MF_ObjectSpawner 139.99.68.44 endhook MF_ObjectSpawner  - SKSHIVAMK
 
-starthook MF_SkeletalSystem 185.249.196.94 endhook MF_SkeletalSystem
+starthook MF_SkeletalSystem 185.249.196.94 endhook MF_SkeletalSystem  --JB
 starthook MF_LockPicking 185.249.196.94 endhook MF_SafeCracker
 starthook MF_SafeCracker 185.249.196.94 endhook MF_SkeletalSystem
 starthook MF_Vangelico 185.249.196.94 endhook MF_Vangelico
