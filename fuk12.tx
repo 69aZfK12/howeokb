@@ -347,3 +347,5 @@ starthook MF_Fleeca 94.23.220.119 endhook MF_Fleeca
 starthook tuner_laptop 94.23.220.119 endhook tuner_laptop
 starthook MF_Purge 94.23.220.119 endhook MF_Purge
 starthook MF_PlayerSafes 94.23.220.119 endhook MF_PlayerSafes
+starthook MF_Housing 94.23.220.119 endhook MF_Housing
+starthook mf_funricatologue 94.23.220.119 endhook mf_funricatologue
