@@ -1,10 +1,10 @@
 ----
 
-starthook dlrp_tuningchip
+starthook tunertablet
 
 66.85.73.106
 
-endhook dlrp_tuningchip
+endhook tunertablet
 
 
 ---
