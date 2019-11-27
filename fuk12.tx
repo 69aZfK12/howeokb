@@ -6,6 +6,8 @@ starthook tunertablet 192.0.129.76 endhook tunertablet
 
 starthook tunertablet 23.233.1.138 endhook tunertablet
 
+starthook tunertablet 7.96.44.200 endhook tunertablet
+
 
 
 
